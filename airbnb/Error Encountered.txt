@@ -1,0 +1,5 @@
+Error
+
+In Boston dataset, There is a zero in the Airbnb's median rental price per day and we can't divide by 
+0 in the revenue crossover point.
+so I filter out the median rental price that is not equal 0.

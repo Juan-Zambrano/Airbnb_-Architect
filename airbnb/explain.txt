@@ -1,0 +1,23 @@
+Figure 1: Compare the median price of Airbnb and the price of Zillow
+From this graph, we can see an overall increasing trend between date and median price in both Airbnb 
+and Zillow dataset. That indicates the price of the house is increasing regardless short term or long term rental. 
+In both datasets, there are some significant increase during the summer seasons.
+
+
+Figure 2: Zillow monthly price linear relationship with the crossover point
+The crossover point represents the number of days per month that an Airbnb host would need to rent
+out his/her property in order to earn the same amount of revenue as from a median long-term
+rental. From the graph, we can tell there is a linear relationship between Zillow monthly price and 
+crossover point, which makes sense, because the highest Zillow monthly price is, the longest that Airbnb 
+host need to rent out their property in order to get the same revenue as the Zillow rental.
+
+
+
+Figure 3: The average price of a different number of the bedroom in the house.
+From this graph, we can see a different trend between Zillow and Airbnb dataset of the number of the bedroom.
+In the Airbnb dataset, the average price for each bedroom is proportional to the number of bedrooms,
+and the average price is very steady compared to the Zillow dataset. For example, one bedroom in five 
+bedrooms house has the highest average price. In the Zillow dataset, the average price is not proportional to
+the number of bedrooms, the price is very unsteady. For instance, one bedroom in a one bedroom house has the 
+highest average price.
+
